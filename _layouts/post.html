@@ -10,7 +10,11 @@ layout: default
   </div>
 
   <div class="date">
+    {% if post.mkd %}
     Written on {{ page.date | date: "%B %e, %Y" }}
+    {% else %}
+    Напишано на {{ page.date | date: "%B %e, %Y" }}
+    {% endif %}
   </div>
 
   {% include disqus.html %}
