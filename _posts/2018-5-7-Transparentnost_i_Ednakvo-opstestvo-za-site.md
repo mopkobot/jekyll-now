@@ -148,4 +148,6 @@ CV за да имаме можност да се увериме дека зас�
 <div class="solid-border">
     <img class="center full-width" src="{{ site.baseurl }}/images/transparentnost_i_ednakvo-opstestvo_za_site/odgovor_od_seeu.png"/>
 </div>
+<div class="image-label">Слика 12: Одговор од Универзитетот на Југоисточна Европа</div> 
+
 
